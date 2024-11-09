@@ -1,23 +1,22 @@
 # 📚 Book Summaries Collection
 
-> **Takeaways from insightful books to enrich your journey.** 🎯
+> **Takeaways from insightful books that I found intriguing** 🎯
 
 ---
 
-### 👋 Why I Created This
+### 🌟 Why This Exists
 
-I've recently been exploring books in areas beyond science and technology, like psychology, philosophy, and self-improvement. As I read, I find it helpful to break down and summarize the main ideas for quick reference and real-life application. This repository is a way to share those insights with you—organized in a clear and practical way so they’re easy to understand and use.
+Hi there! 👋 I've recently been exploring books in areas beyond science and technology, like psychology, philosophy, and self-improvement. As I read, I find it helpful to break down and summarize the main ideas for quick reference and real-life application. This repository is a way to share those insights with you—organized in a clear and practical way so they’re easy to understand and use.
 
 
 ---
 
-### 📖 Available Summaries
+## 📖 Available Summaries
 
-| 📘 **Title**                 | ✍️ **Author**       | 🔗 **Format**          |
-|------------------------------|---------------------|------------------------|
-| **The 48 Laws of Power**     | Robert Greene       | <a href="https://raw.githubusercontent.com/deepmancer/book-summaries/main/the-48-laws-of-power/laws-of-power.pdf" target="_blank">📑 PDF</a> |
-
-*More summaries coming soon!*
+| 📘 **Book Title**           | ✍️ **Author**     | 🔗 **Link**                                                                                                                                                                                |
+|-----------------------------|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **The 48 Laws of Power**    | Robert Greene     | [📑 PDF Summary](https://raw.githubusercontent.com/deepmancer/book-summaries/main/the-48-laws-of-power/laws-of-power.pdf)                                                                 |
+*🚀 More summaries are on the way!*
 
 ---
 
