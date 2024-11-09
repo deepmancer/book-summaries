@@ -16,6 +16,7 @@ Hi there! 👋 I've recently been exploring books in areas beyond science and te
 | 📘 **Book Title**           | ✍️ **Author**     | 🔗 **Link**                                                                                                                                                                                |
 |-----------------------------|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **The 48 Laws of Power**    | Robert Greene     | [📑 PDF Summary](https://raw.githubusercontent.com/deepmancer/book-summaries/main/the-48-laws-of-power/laws-of-power.pdf)                                                                 |
+
 *🚀 More summaries are on the way!*
 
 ---
