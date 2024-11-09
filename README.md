@@ -32,10 +32,4 @@ Contributions to expand this collection are welcome! To get involved:
 
 ---
 
-### ⚖️ License
-
-This project is licensed under the [MIT License](LICENSE). You're free to use, modify, and share—just remember to credit the source. 📄
-
----
-
 Happy reading and learning! 📚✨
